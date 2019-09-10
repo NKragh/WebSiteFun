@@ -1,0 +1,3 @@
+URI: nikolajwebapp.scm.azurewebsites.net:443
+Name: $NikolajWebApp
+Pwd: gy1E9TRegpdSgwXNHR5SaDjld2eP8vCCRNGhajXNXPXnBoPnFweTJGFqwzRb
